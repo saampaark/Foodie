@@ -1,5 +1,5 @@
 # Foodie 🍏
-Have you ever wondered how many calories are in your food? This fullstack application allows you to gain nutritional information about various foods. This project was built using Python, Django, JavaScript, HTML, and CSS. 
+Curious about the calorie content of your food? This full-stack application provides detailed nutritional information for a wide range of foods. Built with Python, Django, JavaScript, HTML, and CSS, this project offers an easy and interactive way to explore nutritional data.
 
 ## Features 
 - Food Search: Search for various foods to get detailed nutritional information.
@@ -11,3 +11,9 @@ Have you ever wondered how many calories are in your food? This fullstack applic
 - Frontend: Javascript, HTML, CSS
 - Backend: Python, Django
 - API: External nutritional information API (API Ninjas)
+
+## Prerequisites
+- Python 3.x
+- Django 3.x
+- Node.js
+- npm (Node Package Manager)
